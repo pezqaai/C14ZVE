@@ -6,7 +6,7 @@ Beadandó (Alkalmazások fejlesztése)
 
 ## 1) Követelmények összegyűjtése, követelmény-analízis
 
-   1.1) Funkcionális követelmények
+#####   1.1) Funkcionális követelmények
    
    A felhasználónak legyen lehetősége regisztrálni az alkalmazásba. Amennyiben ezt már korábban megtette az az alkalmazás felteszi neki az általa megadott biztonsági kérdést. Helyes válasz eseténkiírja az aktuális jelszót és belépteti. 
    
@@ -16,8 +16,16 @@ Beadandó (Alkalmazások fejlesztése)
    
    Az admin felhasználóknak legyen lehetőségük a többi felhasználó adatainak szerkesztésére.
 
-   1.2) Nem funkcionális követelmények
-   
+#####   1.2) Nem funkcionális követelmények
+
+
+   * Használhatóság: a felhasználó szempontjából vizsgált elvárások. A követelményeket használhatósági tesztekkel tudjuk ellenőrizni.
+   * Teljesítmény: olyan a teljesítményre (pl.: elvárt válaszidők, párhuzamosan kiszolgált kérések száma) vonatkozó elvárások, melyeket teljesítménytesztekkel, terheléses tesztekkel ellenőrizni tudunk.
+   * Rendelkezésre állás: több esetben százalékban megadott érték. A 99%-os rendelkezésre állás azt jelenti, hogy a felhasználók az esetek 99%-ban elérik a szolgáltatásokat. Többnyire része a a Szolgáltatási Szint Megállapodásnak (SLA: Service Level Agreement ). Jellemzően szolgáltatás-mérési mutató. Mérésének ellenőrzésére egyszerűen alkalmazhatóak a szerver logok.
+   * Skálázhatóság: a rendszer növekedéséből fakadóan milyen bővítéseket kell tennünk, például milyen szervereket kell üzembe helyezni. Jellemzően az elvárt teljesítményből határozhatjuk meg.
+   * Biztonság: adat-védelmi elvárások meghatározása. Webes alkalmazások biztonsági tesztelése nem egyszerű feladat, az alkalmazás normál működésén alapulva megpróbálunk ártalmas tevékenységet véghezvinni, azaz például személyes adatokat próbálunk megszerezni, módosítjuk az oldal tartalmát, esetleg összeomlasztjuk a rendszert.
+   * Karbantarthatóság: olyan a megbízó által adott elvárások, melyek az alkalmazás üzemeltetésével, karbantartásával, bővítésével kapcsolatosak.
+
 ## 2) Szerepkörök, használati esetek, folyamatok meghatározása
 -
 ## 3) Oldalfunkciók
