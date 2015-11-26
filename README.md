@@ -5,11 +5,11 @@
 Beadandó (Alkalmazások fejlesztése)
 
 ## 1) Követelmények összegyűjtése, követelmény-analízis
-    1.1) Funkcionális követelmények
-    
-    1.2) Nem funkcionális követelmények
-    
 
+   1.1) Funkcionális követelmények
+    
+   1.2) Nem funkcionális követelmények
+    
 ## 2) Szerepkörök, használati esetek, folyamatok meghatározása
 -
 ## 3) Oldalfunkciók
