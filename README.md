@@ -2,7 +2,7 @@
 
 Beadandó (Alkalmazások fejlesztése)
 
-Peitli Zoltán - C14ZVE
+####Peitli Zoltán - C14ZVE
 
 ## 1) Követelmények összegyűjtése, követelmény-analízis
 -
