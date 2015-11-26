@@ -7,7 +7,9 @@ Beadandó (Alkalmazások fejlesztése)
 ## 1) Követelmények összegyűjtése, követelmény-analízis
 
    1.1) Funkcionális követelmények
+    A felhasználónak legyen lehetősége regisztrálni* az alkalmazásba. A regisztrált felhasználó számára elérhetőek az eddig lejelentett napjai, valamint lehetősége van új munkaórák felvételéhez. Ennek a folyamata, hogy a kiválasztott napon tud felvenni kezdeti és befejezési időpontok megadásával, az adott időszakban végzett tevékenység kommentelésével tételeket. Így listaszerűen megtekinthető minden elvégzett feladat, valamint összegzésre kerül az adott napon elvégzett munkaórák száma. A legkisebb lehetséges időegység fél óra.
     
+    * Amennyiben ezt már korábban megtette az az alkalmazás felteszi neki az általa megadott biztonsági kérdést. Helyes válasz eseténkiírja az aktuális jelszót.
    1.2) Nem funkcionális követelmények
     
 ## 2) Szerepkörök, használati esetek, folyamatok meghatározása
