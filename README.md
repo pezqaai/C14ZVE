@@ -1,7 +1,6 @@
 #Munkaidő nyilvántartás
 
-Beadandó (Alkalmazások fejlesztése)
-Peitli Zoltán - C14ZVE
+Beadandó (Alkalmazások fejlesztése)\nPeitli Zoltán - C14ZVE
 
 ## 1) Követelmények összegyűjtése, követelmény-analízis
 -
