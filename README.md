@@ -1,6 +1,24 @@
 #Munkaidő nyilvántartás
 
 Beadandó (Alkalmazások fejlesztése)
+Peitli Zoltán - C14ZVE
+
+## 1) Követelmények összegyűjtése, követelmény-analízis
+-
+## 2) Szerepkörök, használati esetek, folyamatok meghatározása
+-
+## 3) Oldalfunkciók
+-
+## 4) Oldalvázlatok készítése
+-
+## 5) Oldaltérkép, site struktúra
+-
+## 6) Adatbázis tervezése
+-
+## 7) Adatokkal kapcsolatos műveletek előkészítése
+-
+## 8) Designtervek készítése
+-
 
 
 Welcome to your Node.js project on Cloud9 IDE!
