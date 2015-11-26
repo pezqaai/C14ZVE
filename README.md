@@ -28,7 +28,118 @@ Beadandó (Alkalmazások fejlesztése)
    * <b>Minőségi elvárások, felhasználói oldalról:</b> A webes alkalmazásunk legyen elérhető több platformról és különböző böngészőkből is. Működése legyen akadálymentes és az oldalak legyenek validak a megfelelő szabványok szerint.
 
 ## 2) Szerepkörök, használati esetek, folyamatok meghatározása
--
+
+#####   1.1) Szerepkörök
+   * <b>Ismeretlen felhasználó</b>
+<table>
+   <tr>
+      <td>Szerepkör neve:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Leírás:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Profil adatok:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Super-group:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Sub-group:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Kapcsolódó use-case:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Objektumok – olvasási joggal:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Objektumok – módosítási joggal:</td>
+      <td>-</td>
+   </tr>
+</table>
+   * <b>Azonosított felhasználó</b>
+<table>
+   <tr>
+      <td>Szerepkör neve:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Leírás:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Profil adatok:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Super-group:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Sub-group:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Kapcsolódó use-case:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Objektumok – olvasási joggal:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Objektumok – módosítási joggal:</td>
+      <td>-</td>
+   </tr>
+</table>
+   * <b>Adminisztrátor</b>
+<table>
+   <tr>
+      <td>Szerepkör neve:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Leírás:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Profil adatok:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Super-group:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Sub-group:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Kapcsolódó use-case:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Objektumok – olvasási joggal:</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td>Objektumok – módosítási joggal:</td>
+      <td>-</td>
+   </tr>
+</table>
+
+#####   1.2) Használati esetek
+
+#####   1.3) Folyamatok meghatározása
+
 ## 3) Oldalfunkciók
 -
 ## 4) Oldalvázlatok készítése
