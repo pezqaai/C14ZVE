@@ -19,7 +19,8 @@ Beadandó (Alkalmazások fejlesztése)
 #####   1.2) Nem funkcionális követelmények
 
 
-   * Használhatóság: a felhasználó szempontjából vizsgált elvárások. A követelményeket használhatósági tesztekkel tudjuk ellenőrizni.
+######   * Használhatóság:
+   a felhasználó szempontjából vizsgált elvárások. A követelményeket használhatósági tesztekkel tudjuk ellenőrizni.
    * Teljesítmény: olyan a teljesítményre (pl.: elvárt válaszidők, párhuzamosan kiszolgált kérések száma) vonatkozó elvárások, melyeket teljesítménytesztekkel, terheléses tesztekkel ellenőrizni tudunk.
    * Rendelkezésre állás: több esetben százalékban megadott érték. A 99%-os rendelkezésre állás azt jelenti, hogy a felhasználók az esetek 99%-ban elérik a szolgáltatásokat. Többnyire része a a Szolgáltatási Szint Megállapodásnak (SLA: Service Level Agreement ). Jellemzően szolgáltatás-mérési mutató. Mérésének ellenőrzésére egyszerűen alkalmazhatóak a szerver logok.
    * Skálázhatóság: a rendszer növekedéséből fakadóan milyen bővítéseket kell tennünk, például milyen szervereket kell üzembe helyezni. Jellemzően az elvárt teljesítményből határozhatjuk meg.
