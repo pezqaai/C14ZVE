@@ -6,8 +6,9 @@ Beadandó (Alkalmazások fejlesztése)
 
 ## 1) Követelmények összegyűjtése, követelmény-analízis
 
-  i) Szükséges emberi, szoftveres, hardveres erőforrások
-  i) Szükséges emberi, szoftveres, hardveres erőforrások
+    i) Szükséges emberi, szoftveres, hardveres erőforrások
+    
+    i) Szükséges emberi, szoftveres, hardveres erőforrások
 ## 2) Szerepkörök, használati esetek, folyamatok meghatározása
 -
 ## 3) Oldalfunkciók
