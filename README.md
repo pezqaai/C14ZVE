@@ -8,7 +8,7 @@ Beadandó (Alkalmazások fejlesztése)
 
 #####   1.1) Funkcionális követelmények
    
-   A felhasználónak legyen lehetősége regisztrálni az alkalmazásba. Amennyiben ezt már korábban megtette az az alkalmazás felteszi neki az általa megadott biztonsági kérdést. Helyes válasz eseténkiírja az aktuális jelszót és belépteti. 
+   A felhasználónak legyen lehetősége regisztrálni az alkalmazásba, de egy felhasználóhoz maximum egy account tartozhat. Amennyiben a felhasználó elfelejtette a jelszavát az alkalmazás felteszi neki az általa megadott (regisztrációkor) biztonsági kérdést. Helyes válasz esetén kiírja az aktuális jelszót és belépteti. 
    
    A regisztrált felhasználó számára elérhetőek az eddig lejelentett napjai, valamint lehetősége van új munkaórák felvételéhez. Ennek a folyamata, hogy a kiválasztott napon tud felvenni kezdeti és befejezési időpontok megadásával, az adott időszakban végzett tevékenység kommentelésével tételeket. Így listaszerűen megtekinthető minden elvégzett feladat, valamint összegzésre kerül az adott napon elvégzett munkaórák száma. A legkisebb megadható időegység fél óra.
    
@@ -19,12 +19,13 @@ Beadandó (Alkalmazások fejlesztése)
 #####   1.2) Nem funkcionális követelmények
 
 
-   * <b>Használhatóság:</b> a felhasználó szempontjából vizsgált elvárások. A követelményeket használhatósági tesztekkel tudjuk ellenőrizni.
-   * <b>Teljesítmény:</b> olyan a teljesítményre (pl.: elvárt válaszidők, párhuzamosan kiszolgált kérések száma) vonatkozó elvárások, melyeket teljesítménytesztekkel, terheléses tesztekkel ellenőrizni tudunk.
-   * <b>Rendelkezésre állás:</b> több esetben százalékban megadott érték. A 99%-os rendelkezésre állás azt jelenti, hogy a felhasználók az esetek 99%-ban elérik a szolgáltatásokat. Többnyire része a a Szolgáltatási Szint Megállapodásnak (SLA: Service Level Agreement ). Jellemzően szolgáltatás-mérési mutató. Mérésének ellenőrzésére egyszerűen alkalmazhatóak a szerver logok.
-   * <b>Skálázhatóság:</b> a rendszer növekedéséből fakadóan milyen bővítéseket kell tennünk, például milyen szervereket kell üzembe helyezni. Jellemzően az elvárt teljesítményből határozhatjuk meg.
-   * <b>Biztonság:</b> adat-védelmi elvárások meghatározása. Webes alkalmazások biztonsági tesztelése nem egyszerű feladat, az alkalmazás normál működésén alapulva megpróbálunk ártalmas tevékenységet véghezvinni, azaz például személyes adatokat próbálunk megszerezni, módosítjuk az oldal tartalmát, esetleg összeomlasztjuk a rendszert.
-   * <b>Karbantarthatóság:</b> olyan a megbízó által adott elvárások, melyek az alkalmazás üzemeltetésével, karbantartásával, bővítésével kapcsolatosak.
+   * <b>Használhatóság:</b> A látogató számára a felület legyen egyértelmű és átlátható (egy átlagos ember a felhasználói dokumentum ismerete nélkül is könnyen tudja kezelni). Az admin felület a felhasználói dokumentáció ismeretében legyen egyértelműen használható.
+   * <b>Teljesítmény:</b> A weboldal bármely funkcióját használva az oldal frissülése, illetve az új oldal megjelenése ne vegyen igénybe többet pár másodpernél egy átlagos internetkapcsolattal rendelkező felhasználónál. Az oldal legyen képes a cég összes alkalmazottjának egyidejű kiszolgálására (minimum 50 ember).
+   * <b>Rendelkezésre állás:</b> Cél, hogy a weboldal elérhető legyen legalább egy év 99%-ában. Eszerint a felhasználóknak 100 kisérletből legalább 99 alkalommal el kell tudniuk érni az oldalt.
+   * <b>Skálázhatóság:</b> A becsült felhasználó-létszám nem igényli skálázható rendszer tervezését (a későbbiekben a rendszer és a cég növekedésével ez változhat).
+   * <b>Biztonság:</b> A felhasználók és az adminok jelszavai ne legyenek visszafejthetőek. A hibásan bevitt adatokat a rendszer lekezeli, elfelejtett jelszó esetén biztonsági kérdés helyes megválaszolásával is megoldható a beléptetés. Egy munkatárshoz csak egy account tartozhat. A látogatók által elérhető beviteli mezőkön a rendszer végezzen szűrést ártalmas kódokra.
+   * <b>Karbantarthatóság:</b> Törekedni kell a weboldal könnyű bővíthetőségére és módosíthatóságára.
+   * <b>Minőségi elvárások, felhasználói oldalról:</b> A webes alkalmazásunk legyen elérhető több platformról és különböző böngészőkből is. Működése legyen akadálymentes és az oldalak legyenek validak a megfelelő szabványok szerint.
 
 ## 2) Szerepkörök, használati esetek, folyamatok meghatározása
 -
