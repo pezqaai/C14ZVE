@@ -11,11 +11,11 @@ Beadandó (Alkalmazások fejlesztése)
    A felhasználónak legyen lehetősége regisztrálni* az alkalmazásba. A regisztrált felhasználó számára elérhetőek az eddig lejelentett napjai, valamint lehetősége van új munkaórák felvételéhez. Ennek a folyamata, hogy a kiválasztott napon tud felvenni kezdeti és befejezési időpontok megadásával, az adott időszakban végzett tevékenység kommentelésével tételeket. Így listaszerűen megtekinthető minden elvégzett feladat, valamint összegzésre kerül az adott napon elvégzett munkaórák száma. A legkisebb megadható időegység fél óra.
    
    Fontos, hogy az adott napokat le kell zárni, hogy a késöbbiekben ne legyenek szerkeszthetőek. A nem lezárt napoknál a lejelentések elvesznek. Az alkalmazás nem engedheti meg, hogy egy felhasználó egy adott időintervallumra több tételt is felvegyen!
-    
+   
 * Amennyiben ezt már korábban megtette az az alkalmazás felteszi neki az általa megadott biztonsági kérdést. Helyes válasz eseténkiírja az aktuális jelszót.
 
    1.2) Nem funkcionális követelmények
-    
+   
 ## 2) Szerepkörök, használati esetek, folyamatok meghatározása
 -
 ## 3) Oldalfunkciók
