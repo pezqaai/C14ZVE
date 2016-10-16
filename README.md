@@ -43,7 +43,7 @@ Beadandó (Alkalmazások fejlesztése)
 <table>
    <tr>
       <td>Szerepkör neve:</td>
-      <td>unknown_user</td>
+      <td>unknown_user                                                                                                          </td>
    </tr>
    <tr>
       <td>Leírás:</td>
@@ -66,7 +66,7 @@ Beadandó (Alkalmazások fejlesztése)
 <table>
    <tr>
       <td>Szerepkör neve:</td>
-      <td>simple_user</td>
+      <td>simple_user                                                                                                         </td>
    </tr>
    <tr>
       <td>Leírás:</td>
@@ -89,7 +89,7 @@ Beadandó (Alkalmazások fejlesztése)
 <table>
    <tr>
       <td>Szerepkör neve:</td>
-      <td>admin_user</td>
+      <td>admin_user                                                                                                         </td>
    </tr>
    <tr>
       <td>Leírás:</td>
