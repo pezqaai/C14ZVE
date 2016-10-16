@@ -43,11 +43,11 @@ Beadandó (Alkalmazások fejlesztése)
 <table>
    <tr>
       <td>Szerepkör neve:</td>
-      <td>unknown_user                                                                                                          </td>
+      <td>unknown_user</td>
    </tr>
    <tr>
       <td>Leírás:</td>
-      <td>Nem regisztrált felhasználó.</td>
+      <td>Nem regisztrált felhasználó. Az alkalmazásnak csak minimális számú funkcióját használhatja amíg szerepköre nem változik.</td>
    </tr>
    <tr>
       <td>Profil adatok:</td>
@@ -66,11 +66,11 @@ Beadandó (Alkalmazások fejlesztése)
 <table>
    <tr>
       <td>Szerepkör neve:</td>
-      <td>simple_user                                                                                                         </td>
+      <td>simple_user</td>
    </tr>
    <tr>
       <td>Leírás:</td>
-      <td>Regisztrált felhasználó.</td>
+      <td>Regisztrált felhasználó korlátozott írás és olvasási jogokkal. Az alkalmazás az ő igényeit hivatott kielégíteni a beépített funkcióival.</td>
    </tr>
    <tr>
       <td>Profil adatok:</td>
@@ -89,7 +89,7 @@ Beadandó (Alkalmazások fejlesztése)
 <table>
    <tr>
       <td>Szerepkör neve:</td>
-      <td>admin_user                                                                                                         </td>
+      <td>admin_user</td>
    </tr>
    <tr>
       <td>Leírás:</td>
