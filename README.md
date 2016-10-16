@@ -170,6 +170,7 @@ Adminisztrátor:
 * <b>GET/</b>: főoldal
 * <b>GET/login</b>: bejelentkező oldal
 * <b>POST/login</b>: bejelentkezési adatok felküldése
+* <b>GET/mainPage</b>: felhasználó főoldala
 * <b>GET/profile</b>: profiladatok
 * <b>GET/profile/edit</b>: profil szerkesztése
 * <b>POST/profile/edit</b>: profiladatok felküldése
@@ -184,12 +185,21 @@ Adminisztrátor:
 * <b>GET/worktime/new</b>: új munkaórák leadása
 * <b>POST/worktime/new</b>: új munkaórák adatainak felküldése
 
-## 5) Oldalvázlatok
--
+## 5) Oldalvázlatok és Designtervek
+Nyitóoldal
+![alt tag](https://github.com/pezqaai/c14zve/blob/master/log.png)
+Felhasználói főoldal
+![alt tag](https://github.com/pezqaai/c14zve/blob/master/lejelentolap.png)
+Új lejelentés felvétele
+![alt tag](https://github.com/pezqaai/c14zve/blob/master/lejelent.png)
+Profil megtekintése
+![alt tag](https://github.com/pezqaai/c14zve/blob/master/profil.png)
+Profil szerkesztése
+![alt tag](https://github.com/pezqaai/c14zve/blob/master/profilszerk.png)
+Regisztráció
+![alt tag](https://github.com/pezqaai/c14zve/blob/master/reg.png)
 ## 6) Adatmodell
 ![alt tag](https://github.com/pezqaai/c14zve/blob/master/adatmodell.png)
-## 7) Designtervek készítése
--
 
 
 2016.10.16
