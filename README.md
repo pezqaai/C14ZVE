@@ -187,7 +187,7 @@ Adminisztrátor:
 ## 5) Oldalvázlatok
 -
 ## 6) Adatmodell
--
+![alt tag](https://github.com/pezqaai/c14zve/blob/master/adatmodell.png)
 ## 7) Adatbázisterv
 -
 ## 8) Designtervek készítése
