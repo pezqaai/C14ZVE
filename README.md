@@ -198,6 +198,8 @@ Adminisztrátor:
 ![alt tag](https://github.com/pezqaai/c14zve/blob/master/profilszerk.png)
 * <b>Regisztráció</b>
 ![alt tag](https://github.com/pezqaai/c14zve/blob/master/reg.png)
+
+
 ## 6) Adatmodell
 ![alt tag](https://github.com/pezqaai/c14zve/blob/master/adatmodell.png)
 
