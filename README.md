@@ -111,7 +111,7 @@ Beadandó (Alkalmazások fejlesztése)
 
 #####   1.2) Használati esetek
 
-[<actor>Sailor] - [<usecase>shiver me;timbers]
+![alt tag](https://github.com/pezqaai/c14zve/blob/master/esetdiagram.png)
 
 #####   1.3) Folyamatok meghatározása
 
