@@ -54,11 +54,11 @@ Beadandó (Alkalmazások fejlesztése)
       <td>Nem rendelkezik vele.</td>
    </tr>
    <tr>
-      <td>Objektumok – olvasási joggal:</td>
+      <td>Objektumok olvasása:</td>
       <td>Regisztrációs felület.</td>
    </tr>
    <tr>
-      <td>Objektumok – módosítási joggal:</td>
+      <td>Objektumok módosítása:</td>
       <td>Nem rendelkezik vele.</td>
    </tr>
 </table>
@@ -77,11 +77,11 @@ Beadandó (Alkalmazások fejlesztése)
       <td>A regisztrációkor megadott és jóváhagyott adatok.</td>
    </tr>
    <tr>
-      <td>Objektumok – olvasási joggal:</td>
+      <td>Objektumok olvasása:</td>
       <td>Saját lejelentett munkaórái és profilja.</td>
    </tr>
    <tr>
-      <td>Objektumok – módosítási joggal:</td>
+      <td>Objektumok módosítása:</td>
       <td>Az adott napra vonatkozó munkaórái lezárásig, illetve a profilja bizonyos adatai.</td>
    </tr>
 </table>
@@ -100,11 +100,11 @@ Beadandó (Alkalmazások fejlesztése)
       <td>A rendszerben előre létrehozott profil, más user nem regisztrálhat ebbe a szerepkörbe.</td>
    </tr>
    <tr>
-      <td>Objektumok – olvasási joggal:</td>
+      <td>Objektumok olvasása:</td>
       <td>Az alkalmazáson belül mindenhez rendelkezik olvasási joggal.</td>
    </tr>
    <tr>
-      <td>Objektumok – módosítási joggal:</td>
+      <td>Objektumok módosítása:</td>
       <td>Az alkalmazáson belül mindenhez rendelkezik írási joggal.</td>
    </tr>
 </table>
