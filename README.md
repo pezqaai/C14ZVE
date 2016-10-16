@@ -167,7 +167,23 @@ Adminisztrátor:
    + Profiladatok szerkesztése
    
 ## 4) Végpontok
--
+* <b>GET/</b>: főoldal
+* <b>GET/login</b>: bejelentkező oldal
+* <b>POST/login</b>: bejelentkezési adatok felküldése
+* <b>GET/profile</b>: profiladatok
+* <b>GET/profile/edit</b>: profil szerkesztése
+* <b>POST/profile/edit</b>: profiladatok felküldése
+* <b>GET/users</b>: felhasználók listája az admin számára
+* <b>GET/users/:id</b>: felhasználó megtekintése
+* <b>GET/users/:id/editProfile</b>: felhasználó szerkesztése
+* <b>POST/users/:id/editProfile</b>: felhasználó módosított adatainak felküldése
+* <b>GET/users/:id/editWorktime</b>: felhasználó lejelentett munkaóráinak lekérdezése
+* <b>GET/users/:id/editWorktime/:id</b>: felhasználó adott napi lejeletésének szerkesztése
+* <b>POST/users/:id/editWorktime/:id</b>: módosítások felküldése
+* <b>GET/worktime</b>: lejelentett munkaórák megtekintése
+* <b>GET/worktime/new</b>: új munkaórák leadása
+* <b>POST/worktime/new</b>: új munkaórák adatainak felküldése
+
 ## 5) Oldalvázlatok
 -
 ## 6) Adatmodell
