@@ -144,7 +144,28 @@ Beadandó (Alkalmazások fejlesztése)
       ![alt tag](https://github.com/pezqaai/c14zve/blob/master/au_psz.png)
 
 ## 3) Oldaltérkép
--
+Publikus:
+
+- Főoldal
+- Belépés
+- Regisztráció
+
+Azonosított felhasználó:
+
+- Kilépés
+- Saját lejelentések megtekintése
+- Új lejelentés (mai nap)
+- Saját profiladatok
+   + Saját profiladatok szerkesztése
+   
+Adminisztrátor:
+
+- Kilépés
+- Lejelentések megtekintése
+   + Lejelentések módosítása
+- Profiladatok megtekintése
+   + Profiladatok szerkesztése
+   
 ## 4) Végpontok
 -
 ## 5) Oldalvázlatok
