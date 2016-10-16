@@ -207,7 +207,27 @@ Adminisztrátor:
 
 
 ## 6) Adatmodell
-![alt tag](https://github.com/pezqaai/c14zve/blob/master/adatmodell.png)
+![alt tag](https://github.com/pezqaai/c14zve/blob/master/db.png)
+
+
+## 7) Adatbázisterv
+* <b>user_table</b>
+- ID: Integer (felhasználó azonosító - kulcs)
+- FirstName: String (keresztnév)
+- LastName: String (vezetéknév)
+- Email: String (e-mail cím)
+- Password: String (jelszó)
+- WorkTable_ID: Integer (lejelentett órákat tartalmazó tábla - kulcs)
+
+* <b>today_table</b>
+- ID: Integer (azonosító - kulcs)
+- WorkTable_ID: Integer (lejelentett órákat tartalmazó tábla - kulcs)
+- Description: String (elvégzett feladat leírása)
+- Worktime: Integer (ledolgozott órák)
+
+* <b>work_table</b>
+- ID: Integer (azonosító - kulcs)
+- Owner_ID: Integer (felhasználó azonosító - kulcs)
 
 
 2016.10.16
