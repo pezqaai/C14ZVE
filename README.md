@@ -116,9 +116,20 @@ Beadandó (Alkalmazások fejlesztése)
 #####   1.3) Folyamatok meghatározása
 
    * <b>Ismeretlen felhasználó</b>
-      ** <b>Regisztráció</b>
+      <p>Regisztráció</p>
    * <b>Azonosított felhasználó</b>
+      <p>Bejelentkezés</p>
+      <p>Kijelentkezés</p>
+      <p>Lejelentés</p>
+      <p>Profil megtekintése</p>
+      <p>Profil szerkesztése</p>
    * <b>Adminisztrátor</b>
+      <p>Bejelentkezés</p>
+      <p>Kijelentkezés</p>
+      <p>Lejelentések megtekintése</p>
+      <p>Lejelentések szerkesztése</p>
+      <p>Profilok megtekintése</p>
+      <p>Profilok szerkesztése</p>
 
 ## 3) Oldalfunkciók
 -
