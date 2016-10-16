@@ -115,6 +115,11 @@ Beadandó (Alkalmazások fejlesztése)
 
 #####   1.3) Folyamatok meghatározása
 
+   * <b>Ismeretlen felhasználó</b>
+      ** <b>Regisztráció</b>
+   * <b>Azonosított felhasználó</b>
+   * <b>Adminisztrátor</b>
+
 ## 3) Oldalfunkciók
 -
 ## 4) Oldalvázlatok készítése
