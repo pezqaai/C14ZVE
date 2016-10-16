@@ -111,6 +111,8 @@ Beadandó (Alkalmazások fejlesztése)
 
 #####   1.2) Használati esetek
 
+[<actor>Sailor] - [<usecase>shiver me;timbers]
+
 #####   1.3) Folyamatok meghatározása
 
 ## 3) Oldalfunkciók
