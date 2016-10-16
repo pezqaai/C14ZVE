@@ -117,6 +117,7 @@ Beadandó (Alkalmazások fejlesztése)
 
    * <b>Ismeretlen felhasználó</b>
       <p>Regisztráció</p>
+      ![alt tag](https://github.com/pezqaai/c14zve/blob/master/uu_r.png)
    * <b>Azonosított felhasználó</b>
       <p>Bejelentkezés</p>
       <p>Kijelentkezés</p>
