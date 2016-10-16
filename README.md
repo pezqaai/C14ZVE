@@ -124,8 +124,11 @@ Beadandó (Alkalmazások fejlesztése)
       <p>Kijelentkezés</p>
       ![alt tag](https://github.com/pezqaai/c14zve/blob/master/ku_k.png)
       <p>Lejelentés</p>
+      ![alt tag](https://github.com/pezqaai/c14zve/blob/master/ku_l.png)
       <p>Profil megtekintése</p>
+      ![alt tag](https://github.com/pezqaai/c14zve/blob/master/ku_pm.png)
       <p>Profil szerkesztése</p>
+      ![alt tag](https://github.com/pezqaai/c14zve/blob/master/ku_psz.png)
    * <b>Adminisztrátor</b>
       <p>Bejelentkezés</p>
       ![alt tag](https://github.com/pezqaai/c14zve/blob/master/au_b.png)
