@@ -186,17 +186,17 @@ Adminisztrátor:
 * <b>POST/worktime/new</b>: új munkaórák adatainak felküldése
 
 ## 5) Oldalvázlatok és Designtervek
-Nyitóoldal
+* <b>Nyitóoldal</b>
 ![alt tag](https://github.com/pezqaai/c14zve/blob/master/log.png)
-Felhasználói főoldal
+* <b>Felhasználói főoldal</b>
 ![alt tag](https://github.com/pezqaai/c14zve/blob/master/lejelentolap.png)
-Új lejelentés felvétele
+* <b>Új lejelentés felvétele</b>
 ![alt tag](https://github.com/pezqaai/c14zve/blob/master/lejelent.png)
-Profil megtekintése
+* <b>Profil megtekintése</b>
 ![alt tag](https://github.com/pezqaai/c14zve/blob/master/profil.png)
-Profil szerkesztése
+* <b>Profil szerkesztése</b>
 ![alt tag](https://github.com/pezqaai/c14zve/blob/master/profilszerk.png)
-Regisztráció
+* <b>Regisztráció</b>
 ![alt tag](https://github.com/pezqaai/c14zve/blob/master/reg.png)
 ## 6) Adatmodell
 ![alt tag](https://github.com/pezqaai/c14zve/blob/master/adatmodell.png)
