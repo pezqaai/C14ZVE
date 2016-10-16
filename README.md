@@ -43,105 +43,69 @@ Beadandó (Alkalmazások fejlesztése)
 <table>
    <tr>
       <td>Szerepkör neve:</td>
-      <td>-</td>
+      <td>unknown_user</td>
    </tr>
    <tr>
       <td>Leírás:</td>
-      <td>-</td>
+      <td>Nem regisztrált felhasználó.</td>
    </tr>
    <tr>
       <td>Profil adatok:</td>
-      <td>-</td>
-   </tr>
-   <tr>
-      <td>Super-group:</td>
-      <td>-</td>
-   </tr>
-   <tr>
-      <td>Sub-group:</td>
-      <td>-</td>
-   </tr>
-   <tr>
-      <td>Kapcsolódó use-case:</td>
-      <td>-</td>
+      <td>Nem rendelkezik vele.</td>
    </tr>
    <tr>
       <td>Objektumok – olvasási joggal:</td>
-      <td>-</td>
+      <td>Regisztrációs felület.</td>
    </tr>
    <tr>
       <td>Objektumok – módosítási joggal:</td>
-      <td>-</td>
+      <td>Nem rendelkezik vele.</td>
    </tr>
 </table>
    * <b>Azonosított felhasználó</b>
 <table>
    <tr>
       <td>Szerepkör neve:</td>
-      <td>-</td>
+      <td>simple_user</td>
    </tr>
    <tr>
       <td>Leírás:</td>
-      <td>-</td>
+      <td>Regisztrált felhasználó.</td>
    </tr>
    <tr>
       <td>Profil adatok:</td>
-      <td>-</td>
-   </tr>
-   <tr>
-      <td>Super-group:</td>
-      <td>-</td>
-   </tr>
-   <tr>
-      <td>Sub-group:</td>
-      <td>-</td>
-   </tr>
-   <tr>
-      <td>Kapcsolódó use-case:</td>
-      <td>-</td>
+      <td>A regisztrációkor megadott és jóváhagyott adatok.</td>
    </tr>
    <tr>
       <td>Objektumok – olvasási joggal:</td>
-      <td>-</td>
+      <td>Saját lejelentett munkaórái és profilja.</td>
    </tr>
    <tr>
       <td>Objektumok – módosítási joggal:</td>
-      <td>-</td>
+      <td>Az adott napra vonatkozó munkaórái lezárásig, illetve a profilja bizonyos adatai.</td>
    </tr>
 </table>
    * <b>Adminisztrátor</b>
 <table>
    <tr>
       <td>Szerepkör neve:</td>
-      <td>-</td>
+      <td>admin_user</td>
    </tr>
    <tr>
       <td>Leírás:</td>
-      <td>-</td>
+      <td>Szuper felhasználó, aki sokkal több írás/olvasás joggal rendelkezik a többi felhasználóhoz képest. Feladata elsősorban a felmerülő hibák és problémák elhárítása.</td>
    </tr>
    <tr>
       <td>Profil adatok:</td>
-      <td>-</td>
-   </tr>
-   <tr>
-      <td>Super-group:</td>
-      <td>-</td>
-   </tr>
-   <tr>
-      <td>Sub-group:</td>
-      <td>-</td>
-   </tr>
-   <tr>
-      <td>Kapcsolódó use-case:</td>
-      <td>-</td>
+      <td>A rendszerben előre létrehozott profil, más user nem regisztrálhat ebbe a szerepkörbe.</td>
    </tr>
    <tr>
       <td>Objektumok – olvasási joggal:</td>
-      <td>-</td>
+      <td>Az alkalmazáson belül mindenhez rendelkezik olvasási joggal.</td>
    </tr>
    <tr>
       <td>Objektumok – módosítási joggal:</td>
-      <td>-</td>
+      <td>Az alkalmazáson belül mindenhez rendelkezik írási joggal.</td>
    </tr>
 </table>
 
