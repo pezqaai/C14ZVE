@@ -1,0 +1,16 @@
+<shopDocument>
+	<ShopOrderClaims>
+		<claimDefinition name="ARRANGEMENT_ONE">
+			<a>TRUE</a>
+		</claimDefinition>
+		<claimDefinition name="ldsjfhsjgsl">
+			<a>FALSE</a>
+		</claimDefinition>
+		<claimDefinition name="ARRANGEMENT_TWO">
+			<a>TRUE</a>
+		</claimDefinition>
+	</ShopOrderClaims>
+</shopDocument>
+
+
+http://5.189.169.230:8000/SanHW/dbutil.xsjs?command=select&customerName=D
